@@ -1,0 +1,41 @@
+{
+  "name": "oktupol-github-profile",
+  "version": "0.1.0",
+  "description": "Project for dynamically updating my Github profile",
+  "main": "./lib/index.js",
+  "bin": {},
+  "scripts": {
+    "lint": "eslint './src/**/*.js'",
+    "lint-fix": "eslint --fix './src/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oktupol/oktupol.git"
+  },
+  "keywords": [
+    "github",
+    "profile"
+  ],
+  "author": "Sebastian Wieland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oktupol/oktupol/issues"
+  },
+  "homepage": "https://github.com/oktupol/oktupol#readme",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.1.0",
+    "puppeteer": "^12.0.1"
+  }
+}

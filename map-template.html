@@ -1,0 +1,65 @@
+<html>
+
+<head>
+  <title>Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+  <script type="text/javascript" src="https://rawgit.com/jieter/Leaflet.encoded/master/Polyline.encoded.js"></script>
+  <style>
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+  <script>
+    const encodedRoute = {{{encodedRoute}}};
+
+    const coordinates = L.Polyline.fromEncoded(encodedRoute).getLatLngs();
+
+    const northernEdge = Math.max(...coordinates.map(c => c.lat));
+    const southernEdge = Math.min(...coordinates.map(c => c.lat));
+    const easternEdge = Math.max(...coordinates.map(c => c.lng));
+    const westernEdge = Math.min(...coordinates.map(c => c.lng));
+
+    const map = L.map('map', {
+      zoomControl: false,
+      attributionControl: false,
+    }).fitBounds([
+      [northernEdge, westernEdge],
+      [southernEdge, easternEdge]
+    ]);
+
+    const tileUrl = 'https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey={{{apiKey}}}';
+
+    L.tileLayer(
+      tileUrl, {
+      maxZoom: 18,
+    }).addTo(map);
+
+    L.polyline(
+      coordinates,
+      {
+        color: 'blue',
+        weight: 3,
+        opacity: 1,
+        lineJoin: 'round'
+      }
+    ).addTo(map);
+  </script>
+</body>
+
+</html>
