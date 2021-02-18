@@ -8,7 +8,7 @@ I am a web-developer, proficient in both backend and frontend development.
 - Say what you want, my heart belongs to Java
 - Vim is more than an editor, it's a religion
 - Team Tabs! Fuck Spaces! (Only with tabs you can `:set ts=<n>` without having
-  to <kbd>g</kbd> <kbd>g</kbd> <kbd>=</kbd> <kbd>G</kbd>)
+  to <kbd>g</kbd><kbd>g</kbd><kbd>=</kbd><kbd>G</kbd>)
 
 ## Contact
 
