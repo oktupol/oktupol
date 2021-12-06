@@ -71,11 +71,11 @@ const assetsDirectory = `${process.cwd()}/assets`;
       `- Elevation Gain: ${activity.total_elevation_gain} m`,
       '</td>',
       '<td>',
-      `<a href="assets/${activity.id}-map-large.png"><img src="assets/${activity.id}-map.png" alt="Map"></a>`,
+      `<a href="assets/${activity.id}-map-large.png?raw=true"><img src="assets/${activity.id}-map.png" alt="Map"></a>`,
     ].join('\n');
     
     if (photo) {
-      readmeTemplate += `<a href="assets/${activity.id}-photo.jpg"><img src="assets/${activity.id}-photo.jpg" alt="Activity Photo" height="180"></a>\n`;
+      readmeTemplate += `<a href="assets/${activity.id}-photo.jpg?raw=true"><img src="assets/${activity.id}-photo.jpg" alt="Activity Photo" height="180"></a>\n`;
     }
 
     readmeTemplate += [

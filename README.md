@@ -43,7 +43,7 @@ email using the address in my profile.
 - Elevation Gain: 1808 m
 </td>
 <td>
-<a href="assets/6141039127-map-large.png"><img src="assets/6141039127-map.png" alt="Map"></a><a href="assets/6141039127-photo.jpg"><img src="assets/6141039127-photo.jpg" alt="Activity Photo" height="180"></a>
+<a href="assets/6141039127-map-large.png?raw=true"><img src="assets/6141039127-map.png" alt="Map"></a><a href="assets/6141039127-photo.jpg?raw=true"><img src="assets/6141039127-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr><tr>
 <th colspan="2">
@@ -61,7 +61,7 @@ email using the address in my profile.
 - Elevation Gain: 586 m
 </td>
 <td>
-<a href="assets/6106842763-map-large.png"><img src="assets/6106842763-map.png" alt="Map"></a><a href="assets/6106842763-photo.jpg"><img src="assets/6106842763-photo.jpg" alt="Activity Photo" height="180"></a>
+<a href="assets/6106842763-map-large.png?raw=true"><img src="assets/6106842763-map.png" alt="Map"></a><a href="assets/6106842763-photo.jpg?raw=true"><img src="assets/6106842763-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr><tr>
 <th colspan="2">
@@ -79,6 +79,6 @@ email using the address in my profile.
 - Elevation Gain: 281 m
 </td>
 <td>
-<a href="assets/6102296469-map-large.png"><img src="assets/6102296469-map.png" alt="Map"></a><a href="assets/6102296469-photo.jpg"><img src="assets/6102296469-photo.jpg" alt="Activity Photo" height="180"></a>
+<a href="assets/6102296469-map-large.png?raw=true"><img src="assets/6102296469-map.png" alt="Map"></a><a href="assets/6102296469-photo.jpg?raw=true"><img src="assets/6102296469-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
