@@ -164,9 +164,11 @@ async function createMap(browser, activity) {
   ]);
   await page.screenshot({ path: pngFileName });
 
+  console.log(`created screenshot ${pngFileName}`);
+
   await page.setViewport({
-    width: 800,
-    height: 800
+    width: 1920,
+    height: 1080
   });
   await Promise.all([
     page.waitForNavigation({ waitUntil: 'networkidle0' }),
@@ -174,8 +176,8 @@ async function createMap(browser, activity) {
   ]);
   await page.screenshot({ path: largePngFileName });
   
+  console.log(`created screenshot ${largePngFileName}`);
   
-  console.log(`created screenshot ${pngFileName}`);
   await page.close();
   fs.rmSync(htmlFileName);
 
