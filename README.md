@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/7063983700">
+🚲 Lichtenstein I
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2022-04-30**
+
+- Distance: 16.28 km
+- Time: 1.1 h
+- Elevation Gain: 476 m
+</td>
+<td>
+<a href="assets/7063983700-map-large.png?raw=true"><img src="assets/7063983700-map.png" alt="Map"></a><a href="assets/7063983700-photo.jpg?raw=true"><img src="assets/7063983700-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/6141039127">
 🚲 Karwendelrunde
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/6106842763-map-large.png?raw=true"><img src="assets/6106842763-map.png" alt="Map"></a><a href="assets/6106842763-photo.jpg?raw=true"><img src="assets/6106842763-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/6102296469">
-🚲 Den Rhein Entlang
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2021-10-12**
-
-- Distance: 41.28 km
-- Time: 2.7 h
-- Elevation Gain: 281 m
-</td>
-<td>
-<a href="assets/6102296469-map-large.png?raw=true"><img src="assets/6102296469-map.png" alt="Map"></a><a href="assets/6102296469-photo.jpg?raw=true"><img src="assets/6102296469-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
