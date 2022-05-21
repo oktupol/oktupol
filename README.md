@@ -29,6 +29,23 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/7178582096">
+🚲 Lunch Ride
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2022-05-21**
+
+- Distance: 65.71 km
+- Time: 2.4 h
+- Elevation Gain: 391 m
+</td>
+<td>
+<a href="assets/7178582096-map-large.png?raw=true"><img src="assets/7178582096-map.png" alt="Map"></a></td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/7064610213">
 🚲 Lichtenstein II
 </a>
@@ -61,21 +78,4 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/7063983700-map-large.png?raw=true"><img src="assets/7063983700-map.png" alt="Map"></a></td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/6620606389">
-Afternoon Swim
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Swim on 2022-02-02**
-
-- Distance: 2.03 km
-- Time: 0.9 h
-- Elevation Gain: 0 m
-</td>
-<td>
-<a href="assets/6620606389-map-large.png?raw=true"><img src="assets/6620606389-map.png" alt="Map"></a></td>
 </tr></table>
