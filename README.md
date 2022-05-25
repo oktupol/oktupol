@@ -29,40 +29,6 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
-<a href="https://www.strava.com/activities/7178582096">
-🚲 Lunch Ride
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2022-05-21**
-
-- Distance: 65.71 km
-- Time: 2.4 h
-- Elevation Gain: 391 m
-</td>
-<td>
-<a href="assets/7178582096-map-large.png?raw=true"><img src="assets/7178582096-map.png" alt="Map"></a></td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/7064610213">
-🚲 Lichtenstein II
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2022-04-30**
-
-- Distance: 20.74 km
-- Time: 1.3 h
-- Elevation Gain: 164 m
-</td>
-<td>
-<a href="assets/7064610213-map-large.png?raw=true"><img src="assets/7064610213-map.png" alt="Map"></a></td>
-</tr><tr>
-<th colspan="2">
 <a href="https://www.strava.com/activities/7063983700">
 🚲 Lichtenstein I
 </a>
@@ -77,5 +43,42 @@ email using the address in my profile.
 - Elevation Gain: 476 m
 </td>
 <td>
-<a href="assets/7063983700-map-large.png?raw=true"><img src="assets/7063983700-map.png" alt="Map"></a></td>
+<a href="assets/7063983700-map-large.png?raw=true"><img src="assets/7063983700-map.png" alt="Map"></a><a href="assets/7063983700-photo.jpg?raw=true"><img src="assets/7063983700-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
+<a href="https://www.strava.com/activities/6141039127">
+🚲 Karwendelrunde
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2021-10-20**
+
+- Distance: 66.27 km
+- Time: 5.7 h
+- Elevation Gain: 1808 m
+</td>
+<td>
+<a href="assets/6141039127-map-large.png?raw=true"><img src="assets/6141039127-map.png" alt="Map"></a><a href="assets/6141039127-photo.jpg?raw=true"><img src="assets/6141039127-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
+<a href="https://www.strava.com/activities/6106842763">
+🚲 Den Rhein Entlang
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2021-10-13**
+
+- Distance: 59.44 km
+- Time: 3.6 h
+- Elevation Gain: 586 m
+</td>
+<td>
+<a href="assets/6106842763-map-large.png?raw=true"><img src="assets/6106842763-map.png" alt="Map"></a><a href="assets/6106842763-photo.jpg?raw=true"><img src="assets/6106842763-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
 </tr></table>
