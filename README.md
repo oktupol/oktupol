@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/7328883612">
+🚲 Avg temperature > avg speed
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2022-06-18**
+
+- Distance: 104.25 km
+- Time: 4 h
+- Elevation Gain: 623 m
+</td>
+<td>
+<a href="assets/7328883612-map-large.png?raw=true"><img src="assets/7328883612-map.png" alt="Map"></a><a href="assets/7328883612-photo.jpg?raw=true"><img src="assets/7328883612-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/7063983700">
 🚲 Lichtenstein I
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/6141039127-map-large.png?raw=true"><img src="assets/6141039127-map.png" alt="Map"></a><a href="assets/6141039127-photo.jpg?raw=true"><img src="assets/6141039127-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/6106842763">
-🚲 Den Rhein Entlang
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2021-10-13**
-
-- Distance: 59.44 km
-- Time: 3.6 h
-- Elevation Gain: 586 m
-</td>
-<td>
-<a href="assets/6106842763-map-large.png?raw=true"><img src="assets/6106842763-map.png" alt="Map"></a><a href="assets/6106842763-photo.jpg?raw=true"><img src="assets/6106842763-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
