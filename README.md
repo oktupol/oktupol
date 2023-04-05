@@ -30,7 +30,7 @@ email using the address in my profile.
 <table><tr>
 <th colspan="2">
 <a href="https://www.strava.com/activities/8832032515">
-🚲 Munich Brutalism Tour
+🚲 Munich Brutalism Photo Tour
 </a>
 </th>
 </tr><tr>
