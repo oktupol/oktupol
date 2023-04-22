@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/8936839585">
+🚶🏽‍♂️ Miesing
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2023-04-22**
+
+- Distance: 20.77 km
+- Time: 5.6 h
+- Elevation Gain: 1119 m
+</td>
+<td>
+<a href="assets/8936839585-map-large.png?raw=true"><img src="assets/8936839585-map.png" alt="Map"></a><a href="assets/8936839585-photo.jpg?raw=true"><img src="assets/8936839585-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/8832032515">
 🚲 Munich Brutalism Photo Tour
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/7328883612-map-large.png?raw=true"><img src="assets/7328883612-map.png" alt="Map"></a><a href="assets/7328883612-photo.jpg?raw=true"><img src="assets/7328883612-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/7063983700">
-🚲 Lichtenstein I
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2022-04-30**
-
-- Distance: 16.28 km
-- Time: 1.1 h
-- Elevation Gain: 476 m
-</td>
-<td>
-<a href="assets/7063983700-map-large.png?raw=true"><img src="assets/7063983700-map.png" alt="Map"></a><a href="assets/7063983700-photo.jpg?raw=true"><img src="assets/7063983700-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
