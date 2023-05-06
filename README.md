@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/9020599023">
+🚶🏽‍♂️ Bodenschneid
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2023-05-06**
+
+- Distance: 10.49 km
+- Time: 3.1 h
+- Elevation Gain: 682.4 m
+</td>
+<td>
+<a href="assets/9020599023-map-large.png?raw=true"><img src="assets/9020599023-map.png" alt="Map"></a><a href="assets/9020599023-photo.jpg?raw=true"><img src="assets/9020599023-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/8936839585">
 🚶🏽‍♂️ Miesing
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/8832032515-map-large.png?raw=true"><img src="assets/8832032515-map.png" alt="Map"></a><a href="assets/8832032515-photo.jpg?raw=true"><img src="assets/8832032515-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/7328883612">
-🚲 Avg temperature > avg speed
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2022-06-18**
-
-- Distance: 104.25 km
-- Time: 4 h
-- Elevation Gain: 623 m
-</td>
-<td>
-<a href="assets/7328883612-map-large.png?raw=true"><img src="assets/7328883612-map.png" alt="Map"></a><a href="assets/7328883612-photo.jpg?raw=true"><img src="assets/7328883612-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
