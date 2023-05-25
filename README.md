@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/9140139245">
+🚲 You physically can't transport anything without a truck, ever!
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2023-05-25**
+
+- Distance: 19.24 km
+- Time: 1.4 h
+- Elevation Gain: 49 m
+</td>
+<td>
+<a href="assets/9140139245-map-large.png?raw=true"><img src="assets/9140139245-map.png" alt="Map"></a><a href="assets/9140139245-photo.jpg?raw=true"><img src="assets/9140139245-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/9020599023">
 🚶🏽‍♂️ Bodenschneid
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/8936839585-map-large.png?raw=true"><img src="assets/8936839585-map.png" alt="Map"></a><a href="assets/8936839585-photo.jpg?raw=true"><img src="assets/8936839585-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/8832032515">
-🚲 Munich Brutalism Photo Tour
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2023-04-04**
-
-- Distance: 30.16 km
-- Time: 2.1 h
-- Elevation Gain: 131 m
-</td>
-<td>
-<a href="assets/8832032515-map-large.png?raw=true"><img src="assets/8832032515-map.png" alt="Map"></a><a href="assets/8832032515-photo.jpg?raw=true"><img src="assets/8832032515-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
