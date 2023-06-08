@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/9225387258">
+🚶🏽‍♂️ Wendelstein
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2023-06-08**
+
+- Distance: 18.94 km
+- Time: 4.6 h
+- Elevation Gain: 1361 m
+</td>
+<td>
+<a href="assets/9225387258-map-large.png?raw=true"><img src="assets/9225387258-map.png" alt="Map"></a><a href="assets/9225387258-photo.jpg?raw=true"><img src="assets/9225387258-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/9140139245">
 🚲 You physically can't transport anything without a truck, ever!
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/9020599023-map-large.png?raw=true"><img src="assets/9020599023-map.png" alt="Map"></a><a href="assets/9020599023-photo.jpg?raw=true"><img src="assets/9020599023-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/8936839585">
-🚶🏽‍♂️ Miesing
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2023-04-22**
-
-- Distance: 20.77 km
-- Time: 5.6 h
-- Elevation Gain: 1119 m
-</td>
-<td>
-<a href="assets/8936839585-map-large.png?raw=true"><img src="assets/8936839585-map.png" alt="Map"></a><a href="assets/8936839585-photo.jpg?raw=true"><img src="assets/8936839585-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
