@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/13448221298">
+🚶🏽‍♂️ Rotwand
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2025-01-25**
+
+- Distance: 17.87 km
+- Time: 3.7 h
+- Elevation Gain: 847 m
+</td>
+<td>
+<a href="assets/13448221298-map-large.png?raw=true"><img src="assets/13448221298-map.png" alt="Map"></a><a href="assets/13448221298-photo.jpg?raw=true"><img src="assets/13448221298-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/9225387258">
 🚶🏽‍♂️ Wendelstein
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/9140139245-map-large.png?raw=true"><img src="assets/9140139245-map.png" alt="Map"></a><a href="assets/9140139245-photo.jpg?raw=true"><img src="assets/9140139245-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/9020599023">
-🚶🏽‍♂️ Bodenschneid
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2023-05-06**
-
-- Distance: 10.49 km
-- Time: 3.1 h
-- Elevation Gain: 682.4 m
-</td>
-<td>
-<a href="assets/9020599023-map-large.png?raw=true"><img src="assets/9020599023-map.png" alt="Map"></a><a href="assets/9020599023-photo.jpg?raw=true"><img src="assets/9020599023-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
