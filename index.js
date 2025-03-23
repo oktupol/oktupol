@@ -45,6 +45,9 @@ const assetsDirectory = `${process.cwd()}/assets`;
       case 'Hike':
         typeEmoji = '🚶🏽‍♂️ ';
         break;
+	  case 'WaterSport':
+		typeEmoji = '🛶 ';
+		break;
     }
 
     const activityDate = new Date(activity.start_date);

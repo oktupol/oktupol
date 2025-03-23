@@ -29,6 +29,42 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/13955982272">
+🛶 Afternoon Kayaking
+</a>
+</th>
+</tr><tr>
+<td>
+
+**WaterSport on 2025-03-22**
+
+- Distance: 8.79 km
+- Time: 1.6 h
+- Elevation Gain: 28 m
+</td>
+<td>
+<a href="assets/13955982272-map-large.png?raw=true"><img src="assets/13955982272-map.png" alt="Map"></a><a href="assets/13955982272-photo.jpg?raw=true"><img src="assets/13955982272-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
+<a href="https://www.strava.com/activities/13832841930">
+🚲 Morning Ride
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2025-03-09**
+
+- Distance: 78.04 km
+- Time: 3.1 h
+- Elevation Gain: 538 m
+</td>
+<td>
+<a href="assets/13832841930-map-large.png?raw=true"><img src="assets/13832841930-map.png" alt="Map"></a><a href="assets/13832841930-photo.jpg?raw=true"><img src="assets/13832841930-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/13448221298">
 🚶🏽‍♂️ Rotwand
 </a>
@@ -44,41 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/13448221298-map-large.png?raw=true"><img src="assets/13448221298-map.png" alt="Map"></a><a href="assets/13448221298-photo.jpg?raw=true"><img src="assets/13448221298-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/9225387258">
-🚶🏽‍♂️ Wendelstein
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2023-06-08**
-
-- Distance: 18.94 km
-- Time: 4.6 h
-- Elevation Gain: 1361 m
-</td>
-<td>
-<a href="assets/9225387258-map-large.png?raw=true"><img src="assets/9225387258-map.png" alt="Map"></a><a href="assets/9225387258-photo.jpg?raw=true"><img src="assets/9225387258-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/9140139245">
-🚲 You physically can't transport anything without a truck, ever!
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2023-05-25**
-
-- Distance: 19.24 km
-- Time: 1.4 h
-- Elevation Gain: 49 m
-</td>
-<td>
-<a href="assets/9140139245-map-large.png?raw=true"><img src="assets/9140139245-map.png" alt="Map"></a><a href="assets/9140139245-photo.jpg?raw=true"><img src="assets/9140139245-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
