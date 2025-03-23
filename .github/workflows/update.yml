@@ -16,6 +16,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install chromium
+        run: >
+          sudo apt update
+          sudo apt install chromium
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
