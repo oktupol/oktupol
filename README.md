@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/14347023676">
+🛶 Afternoon Kayaking
+</a>
+</th>
+</tr><tr>
+<td>
+
+**WaterSport on 2025-05-01**
+
+- Distance: 9.65 km
+- Time: 1.9 h
+- Elevation Gain: 29 m
+</td>
+<td>
+<a href="assets/14347023676-map-large.png?raw=true"><img src="assets/14347023676-map.png" alt="Map"></a><a href="assets/14347023676-photo.jpg?raw=true"><img src="assets/14347023676-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/13955982272">
 🛶 Afternoon Kayaking
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/13832841930-map-large.png?raw=true"><img src="assets/13832841930-map.png" alt="Map"></a><a href="assets/13832841930-photo.jpg?raw=true"><img src="assets/13832841930-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/13448221298">
-🚶🏽‍♂️ Rotwand
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2025-01-25**
-
-- Distance: 17.87 km
-- Time: 3.7 h
-- Elevation Gain: 847 m
-</td>
-<td>
-<a href="assets/13448221298-map-large.png?raw=true"><img src="assets/13448221298-map.png" alt="Map"></a><a href="assets/13448221298-photo.jpg?raw=true"><img src="assets/13448221298-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
