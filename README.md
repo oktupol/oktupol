@@ -29,6 +29,42 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/15399646089">
+🚲 Afternoon Ride
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2025-08-09**
+
+- Distance: 47.62 km
+- Time: 1.8 h
+- Elevation Gain: 216 m
+</td>
+<td>
+<a href="assets/15399646089-map-large.png?raw=true"><img src="assets/15399646089-map.png" alt="Map"></a><a href="assets/15399646089-photo.jpg?raw=true"><img src="assets/15399646089-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
+<a href="https://www.strava.com/activities/15380869555">
+🚲 Afternoon Ride
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2025-08-07**
+
+- Distance: 43.32 km
+- Time: 2.5 h
+- Elevation Gain: 398 m
+</td>
+<td>
+<a href="assets/15380869555-map-large.png?raw=true"><img src="assets/15380869555-map.png" alt="Map"></a><a href="assets/15380869555-photo.jpg?raw=true"><img src="assets/15380869555-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/14850075686">
 🚶🏽‍♂️ Morning Hike
 </a>
@@ -44,41 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/14850075686-map-large.png?raw=true"><img src="assets/14850075686-map.png" alt="Map"></a><a href="assets/14850075686-photo.jpg?raw=true"><img src="assets/14850075686-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/14347023676">
-🛶 Afternoon Kayaking
-</a>
-</th>
-</tr><tr>
-<td>
-
-**WaterSport on 2025-05-01**
-
-- Distance: 9.65 km
-- Time: 1.9 h
-- Elevation Gain: 29 m
-</td>
-<td>
-<a href="assets/14347023676-map-large.png?raw=true"><img src="assets/14347023676-map.png" alt="Map"></a><a href="assets/14347023676-photo.jpg?raw=true"><img src="assets/14347023676-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/13955982272">
-🛶 Afternoon Kayaking
-</a>
-</th>
-</tr><tr>
-<td>
-
-**WaterSport on 2025-03-22**
-
-- Distance: 8.79 km
-- Time: 1.6 h
-- Elevation Gain: 28 m
-</td>
-<td>
-<a href="assets/13955982272-map-large.png?raw=true"><img src="assets/13955982272-map.png" alt="Map"></a><a href="assets/13955982272-photo.jpg?raw=true"><img src="assets/13955982272-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
