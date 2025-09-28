@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/15884253959">
+🚶🏽‍♂️ Steinfalk
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2025-09-20**
+
+- Distance: 17.97 km
+- Time: 4.7 h
+- Elevation Gain: 1520 m
+</td>
+<td>
+<a href="assets/15884253959-map-large.png?raw=true"><img src="assets/15884253959-map.png" alt="Map"></a><a href="assets/15884253959-photo.jpg?raw=true"><img src="assets/15884253959-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/15683789833">
 🚶🏽‍♂️ Halserspitz
 </a>
@@ -62,23 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/15470992900-map-large.png?raw=true"><img src="assets/15470992900-map.png" alt="Map"></a><a href="assets/15470992900-photo.jpg?raw=true"><img src="assets/15470992900-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/15399646089">
-🚲 Afternoon Ride
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2025-08-09**
-
-- Distance: 47.62 km
-- Time: 1.8 h
-- Elevation Gain: 216 m
-</td>
-<td>
-<a href="assets/15399646089-map-large.png?raw=true"><img src="assets/15399646089-map.png" alt="Map"></a><a href="assets/15399646089-photo.jpg?raw=true"><img src="assets/15399646089-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
