@@ -46,7 +46,6 @@ email using the address in my profile.
 <a href="assets/18439452684-map-large.png?raw=true"><img src="assets/18439452684-map.png" alt="Map"></a><a href="assets/18439452684-photo.jpg?raw=true"><img src="assets/18439452684-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr>
-<small>Last check for updates: Sat May 09 2026 19:46:04 GMT+0200 (Central European Summer Time)</small><tr>
 <th colspan="2">
 <a href="https://www.strava.com/activities/17552786562">
 🚲 Erste Ausfahrt 2026
@@ -65,7 +64,6 @@ email using the address in my profile.
 <a href="assets/17552786562-map-large.png?raw=true"><img src="assets/17552786562-map.png" alt="Map"></a><a href="assets/17552786562-photo.jpg?raw=true"><img src="assets/17552786562-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr>
-<small>Last check for updates: Sat May 09 2026 19:46:07 GMT+0200 (Central European Summer Time)</small><tr>
 <th colspan="2">
 <a href="https://www.strava.com/activities/15884253959">
 🚶🏽‍♂️ Steinfalk
