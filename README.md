@@ -29,6 +29,42 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/18439452684">
+🚶🏽‍♂️ Kurz um den Block
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2026-05-09**
+
+- Distance: 33.86 km
+- Time: 7.7 h
+- Elevation Gain: 1860 m
+</td>
+<td>
+<a href="assets/18439452684-map-large.png?raw=true"><img src="assets/18439452684-map.png" alt="Map"></a><a href="assets/18439452684-photo.jpg?raw=true"><img src="assets/18439452684-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
+<a href="https://www.strava.com/activities/17552786562">
+🚲 Erste Ausfahrt 2026
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2026-02-28**
+
+- Distance: 68.29 km
+- Time: 2.5 h
+- Elevation Gain: 531 m
+</td>
+<td>
+<a href="assets/17552786562-map-large.png?raw=true"><img src="assets/17552786562-map.png" alt="Map"></a><a href="assets/17552786562-photo.jpg?raw=true"><img src="assets/17552786562-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/15884253959">
 🚶🏽‍♂️ Steinfalk
 </a>
@@ -44,41 +80,5 @@ email using the address in my profile.
 </td>
 <td>
 <a href="assets/15884253959-map-large.png?raw=true"><img src="assets/15884253959-map.png" alt="Map"></a><a href="assets/15884253959-photo.jpg?raw=true"><img src="assets/15884253959-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/15683789833">
-🚶🏽‍♂️ Halserspitz
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2025-09-03**
-
-- Distance: 20.97 km
-- Time: 5.7 h
-- Elevation Gain: 1345 m
-</td>
-<td>
-<a href="assets/15683789833-map-large.png?raw=true"><img src="assets/15683789833-map.png" alt="Map"></a><a href="assets/15683789833-photo.jpg?raw=true"><img src="assets/15683789833-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/15470992900">
-🚶🏽‍♂️ Hochkalter
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2025-08-15**
-
-- Distance: 13.62 km
-- Time: 4.4 h
-- Elevation Gain: 1903 m
-</td>
-<td>
-<a href="assets/15470992900-map-large.png?raw=true"><img src="assets/15470992900-map.png" alt="Map"></a><a href="assets/15470992900-photo.jpg?raw=true"><img src="assets/15470992900-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr></table>
