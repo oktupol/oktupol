@@ -15,92 +15,92 @@ const thunderforestApiKey = process.env.THUNDERFOREST_API_KEY;
 const assetsDirectory = `${process.cwd()}/assets`;
 
 (async () => {
- const accessToken = await getAccessToken(refreshToken);
- const activityList = await listActivities(accessToken);
+  const accessToken = await getAccessToken(refreshToken);
+  const activityList = await listActivities(accessToken);
 
- const activitiesWithPhotos = activityList.filter(a => a.total_photo_count > 0);
- const activitiesWithoutPhotos = activityList.filter(a => a.total_photo_count === 0);
+  const activitiesWithPhotos = activityList.filter(a => a.total_photo_count > 0);
+  const activitiesWithoutPhotos = activityList.filter(a => a.total_photo_count === 0);
 
- const activitiesToConsider = [...activitiesWithPhotos, ...activitiesWithoutPhotos];
+  const activitiesToConsider = [...activitiesWithPhotos, ...activitiesWithoutPhotos];
 
- if (fs.existsSync(assetsDirectory)) {
- fs.rmSync(assetsDirectory, { recursive: true });
- }
+  if (fs.existsSync(assetsDirectory)) {
+    fs.rmSync(assetsDirectory, { recursive: true });
+  }
 
- let readmeTemplate = fs.readFileSync('./readme-template.md').toString();
+  let readmeTemplate = fs.readFileSync('./readme-template.md').toString();
 
- readmeTemplate += '<table>';
+  readmeTemplate += '<table>';
 
- const browser = await puppeteer.launch();
- for (let i = 0; i < Math.min(activitiesToConsider.length, 3); i++) {
- const activity = await getActivity(accessToken, activitiesToConsider[i].id);
- await createMap(browser, activity);
- const photo = await downloadActivityPhoto(activity);
+  const browser = await puppeteer.launch();
+  for (let i = 0; i < Math.min(activitiesToConsider.length, 3); i++) {
+    const activity = await getActivity(accessToken, activitiesToConsider[i].id);
+    await createMap(browser, activity);
+    const photo = await downloadActivityPhoto(activity);
 
- let typeEmoji = '';
- switch (activity.type) {
-   case 'Ride':
-     typeEmoji = '🚲 ';
-     break;
-   case 'Hike':
-     typeEmoji = '🚶🏽‍♂️ ';
-     break;
-   case 'WaterSport':
-     typeEmoji = '🛶 ';
-     break;
- }
+    let typeEmoji = '';
+    switch (activity.type) {
+      case 'Ride':
+        typeEmoji = '🚲 ';
+        break;
+      case 'Hike':
+        typeEmoji = '🚶🏽‍♂️ ';
+        break;
+      case 'WaterSport':
+        typeEmoji = '🛶 ';
+        break;
+    }
 
- const activityDate = new Date(activity.start_date);
- const distanceKm = activity.distance / 1000;
- const distanceKmRounded = Math.round((distanceKm + Number.EPSILON) * 100) / 100;
+    const activityDate = new Date(activity.start_date);
+    const distanceKm = activity.distance / 1000;
+    const distanceKmRounded = Math.round((distanceKm + Number.EPSILON) * 100) / 100;
 
- const timeHours = activity.moving_time / 3600;
- const timeHoursRounded = Math.round((timeHours + Number.EPSILON) * 10) / 10;
+    const timeHours = activity.moving_time / 3600;
+    const timeHoursRounded = Math.round((timeHours + Number.EPSILON) * 10) / 10;
 
- readmeTemplate += [
-   '<tr>',
-   '<th colspan="2">',
-   `<a href="https://www.strava.com/activities/${activity.id}">`,
-   `${typeEmoji}${activity.name}`,
-   '</a>',
-   '</th>',
-   '</tr><tr>',
-   '<td>',
-   '',
-   `**${activity.type} on ${activityDate.toISOString().substring(0, 10)}**`,
-   '',
-   `- Distance: ${distanceKmRounded} km`,
-   `- Time: ${timeHoursRounded} h`,
-   `- Elevation Gain: ${activity.total_elevation_gain} m`,
-   '</td>',
-   '<td>',
-   `<a href="assets/${activity.id}-map-large.png?raw=true"><img src="assets/${activity.id}-map.png" alt="Map"></a>`,
- ].join('\n');
+    readmeTemplate += [
+      '<tr>',
+      '<th colspan="2">',
+      `<a href="https://www.strava.com/activities/${activity.id}">`,
+      `${typeEmoji}${activity.name}`,
+      '</a>',
+      '</th>',
+      '</tr><tr>',
+      '<td>',
+      '',
+      `**${activity.type} on ${activityDate.toISOString().substring(0, 10)}**`,
+      '',
+      `- Distance: ${distanceKmRounded} km`,
+      `- Time: ${timeHoursRounded} h`,
+      `- Elevation Gain: ${activity.total_elevation_gain} m`,
+      '</td>',
+      '<td>',
+      `<a href="assets/${activity.id}-map-large.png?raw=true"><img src="assets/${activity.id}-map.png" alt="Map"></a>`,
+    ].join('\n');
 
- if (photo) {
-   readmeTemplate += `<a href="assets/${activity.id}-photo.jpg?raw=true"><img src="assets/${activity.id}-photo.jpg" alt="Activity Photo" height="180"></a>\n`;
- }
+    if (photo) {
+      readmeTemplate += `<a href="assets/${activity.id}-photo.jpg?raw=true"><img src="assets/${activity.id}-photo.jpg" alt="Activity Photo" height="180"></a>\n`;
+    }
 
- readmeTemplate += [
-   '</td>',
-   '</tr>',
-   '<small>Last check for updates: ' + new Date() + '</small>'
- ].join('\n');
- }
- browser.close();
+    readmeTemplate += [
+      '</td>',
+      '</tr>',
+    ].join('\n');
+  }
+  browser.close();
 
- readmeTemplate += '</table>';
+  readmeTemplate += '</table>';
+  readmeTemplate += '<small>Last check for updates: ' + new Date() + '</small>';
 
- fs.writeFileSync('README.md', readmeTemplate);
+  fs.writeFileSync('README.md', readmeTemplate);
 })();
 
 async function getAccessToken(refreshToken) {
   const tokenUrl = `${oauthBaseUrl}/token`;
 
   const tokenResponse = await fetch(
-      `${tokenUrl}?client_id=${clientId}&client_secret=${clientSecret}&grant_type=refresh_token&refresh_token=${refreshToken}`,
-      { method: 'POST' }
-      );
+    `${tokenUrl}?client_id=${clientId}&client_secret=${clientSecret}&grant_type=refresh_token&refresh_token=${refreshToken}`,
+    { method: 'POST' }
+  );
 
   const jsonBody = await tokenResponse.json();
 
@@ -109,33 +109,33 @@ async function getAccessToken(refreshToken) {
 
 async function listActivities(accessToken, page, perPage, before, after) {
   const activitiesUrl = `${baseUrl}/athlete/activities`
-    let queryParams = {};
+  let queryParams = {};
   if (page) { queryParams.page = page; }
   if (perPage) { queryParams.per_page = perPage; }
   if (before) { queryParams.before = before; }
   if (after) { queryParams.after = after; }
 
   const response = await fetch(urlWithParams(activitiesUrl, queryParams), {
-headers: {
+    headers: {
 'authorization': `Bearer ${accessToken}`
-}
-});
+    }
+  });
 
-return await response.json();
+  return await response.json();
 }
 
 async function getActivity(accessToken, activityId, includeAllEfforts) {
   const activityUrl = `${baseUrl}/activities/${activityId}`
-    let queryParams = {};
+  let queryParams = {};
   if (includeAllEfforts) { queryParams.include_all_efforts = true; }
 
   const response = await fetch(urlWithParams(activityUrl, queryParams), {
-headers: {
+    headers: {
 'authorization': `Bearer ${accessToken}`
-}
-});
+    }
+  });
 
-return await response.json();
+  return await response.json();
 }
 
 async function createMap(browser, activity) {
@@ -159,33 +159,33 @@ async function createMap(browser, activity) {
   const page = await browser.newPage();
 
   await page.setViewport({
-width: 180,
-height: 180
-});
-await Promise.all([
+    width: 180,
+    height: 180
+  });
+  await Promise.all([
     page.waitForNavigation({ waitUntil: 'networkidle0' }),
     page.goto(`file://${htmlFileName}`),
-]);
-await page.screenshot({ path: pngFileName });
+  ]);
+  await page.screenshot({ path: pngFileName });
 
-console.log(`created screenshot ${pngFileName}`);
+  console.log(`created screenshot ${pngFileName}`);
 
-await page.setViewport({
-width: 1920,
-height: 1080
-});
-await Promise.all([
+  await page.setViewport({
+    width: 1920,
+    height: 1080
+  });
+  await Promise.all([
     page.waitForNavigation({ waitUntil: 'networkidle0' }),
     page.goto(`file://${htmlFileName}`),
-]);
-await page.screenshot({ path: largePngFileName });
+  ]);
+  await page.screenshot({ path: largePngFileName });
 
-console.log(`created screenshot ${largePngFileName}`);
+  console.log(`created screenshot ${largePngFileName}`);
 
-await page.close();
-fs.rmSync(htmlFileName);
+  await page.close();
+  fs.rmSync(htmlFileName);
 
-return pngFileName;
+  return pngFileName;
 }
 
 async function downloadActivityPhoto(activity) {
@@ -205,10 +205,10 @@ async function downloadActivityPhoto(activity) {
 
 function urlWithParams(url, params) {
   return url + (
-      Object.keys(params).length
-      ? '?' + Object.keys(params)
-      .map(key => `${key}=${encodeURIComponent(params[key])}`)
-      .join('&')
-      : ''
-      );
+    Object.keys(params).length
+    ? '?' + Object.keys(params)
+    .map(key => `${key}=${encodeURIComponent(params[key])}`)
+    .join('&')
+    : ''
+  );
 }

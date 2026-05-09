@@ -84,4 +84,5 @@ email using the address in my profile.
 <a href="assets/15884253959-map-large.png?raw=true"><img src="assets/15884253959-map.png" alt="Map"></a><a href="assets/15884253959-photo.jpg?raw=true"><img src="assets/15884253959-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr>
-<small>Last check for updates: Sat May 09 2026 19:46:10 GMT+0200 (Central European Summer Time)</small></table>
+</table>
+<small>Last check for updates: Sat May 09 2026 19:46:10 GMT+0200 (Central European Summer Time)</small>
