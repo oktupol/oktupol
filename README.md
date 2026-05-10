@@ -30,7 +30,7 @@ email using the address in my profile.
 <table><tr>
 <th colspan="2">
 <a href="https://www.strava.com/activities/18439452684">
-🚶🏽‍♂️ Kurz um den Block
+🚶🏽‍♂️ Kurz an den See spazieren
 </a>
 </th>
 </tr><tr>
@@ -45,7 +45,7 @@ email using the address in my profile.
 <td>
 <a href="assets/18439452684-map-large.png?raw=true"><img src="assets/18439452684-map.png" alt="Map"></a><a href="assets/18439452684-photo.jpg?raw=true"><img src="assets/18439452684-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr>
+</tr><tr>
 <th colspan="2">
 <a href="https://www.strava.com/activities/17552786562">
 🚲 Erste Ausfahrt 2026
@@ -63,7 +63,7 @@ email using the address in my profile.
 <td>
 <a href="assets/17552786562-map-large.png?raw=true"><img src="assets/17552786562-map.png" alt="Map"></a><a href="assets/17552786562-photo.jpg?raw=true"><img src="assets/17552786562-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr>
+</tr><tr>
 <th colspan="2">
 <a href="https://www.strava.com/activities/15884253959">
 🚶🏽‍♂️ Steinfalk
@@ -81,6 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/15884253959-map-large.png?raw=true"><img src="assets/15884253959-map.png" alt="Map"></a><a href="assets/15884253959-photo.jpg?raw=true"><img src="assets/15884253959-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr>
-</table>
-<small>Last check for updates: Sat May 09 2026 19:46:10 GMT+0200 (Central European Summer Time)</small>
+</tr></table><small>Last check for updates: Sun May 10 2026 23:45:48 GMT+0000 (Coordinated Universal Time)</small>
