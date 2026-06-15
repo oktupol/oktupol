@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/18915019157">
+🚶🏽‍♂️ Morning Hike
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2026-06-14**
+
+- Distance: 20.88 km
+- Time: 4.1 h
+- Elevation Gain: 1037 m
+</td>
+<td>
+<a href="assets/18915019157-map-large.png?raw=true"><img src="assets/18915019157-map.png" alt="Map"></a><a href="assets/18915019157-photo.jpg?raw=true"><img src="assets/18915019157-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/18439452684">
 🚶🏽‍♂️ Kurz an den See spazieren
 </a>
@@ -63,22 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/17552786562-map-large.png?raw=true"><img src="assets/17552786562-map.png" alt="Map"></a><a href="assets/17552786562-photo.jpg?raw=true"><img src="assets/17552786562-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/15884253959">
-🚶🏽‍♂️ Steinfalk
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2025-09-20**
-
-- Distance: 17.97 km
-- Time: 4.7 h
-- Elevation Gain: 1520 m
-</td>
-<td>
-<a href="assets/15884253959-map-large.png?raw=true"><img src="assets/15884253959-map.png" alt="Map"></a><a href="assets/15884253959-photo.jpg?raw=true"><img src="assets/15884253959-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr></table><small>Last check for updates: Mon Jun 08 2026 00:02:43 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Mon Jun 15 2026 00:04:51 GMT+0000 (Coordinated Universal Time)</small>
