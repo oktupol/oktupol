@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/19011715935">
+🚶🏽‍♂️ Tegernsee Marsch
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2026-06-21**
+
+- Distance: 49.09 km
+- Time: 8.9 h
+- Elevation Gain: 1572 m
+</td>
+<td>
+<a href="assets/19011715935-map-large.png?raw=true"><img src="assets/19011715935-map.png" alt="Map"></a><a href="assets/19011715935-photo.jpg?raw=true"><img src="assets/19011715935-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/18915019157">
 🚶🏽‍♂️ Morning Hike
 </a>
@@ -63,22 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/18439452684-map-large.png?raw=true"><img src="assets/18439452684-map.png" alt="Map"></a><a href="assets/18439452684-photo.jpg?raw=true"><img src="assets/18439452684-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/17552786562">
-🚲 Erste Ausfahrt 2026
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2026-02-28**
-
-- Distance: 68.29 km
-- Time: 2.5 h
-- Elevation Gain: 531 m
-</td>
-<td>
-<a href="assets/17552786562-map-large.png?raw=true"><img src="assets/17552786562-map.png" alt="Map"></a><a href="assets/17552786562-photo.jpg?raw=true"><img src="assets/17552786562-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr></table><small>Last check for updates: Mon Jun 15 2026 00:04:51 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Mon Jun 22 2026 00:07:06 GMT+0000 (Coordinated Universal Time)</small>
