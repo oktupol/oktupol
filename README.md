@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/19098381036">
+🚲 Biken & Baden 🚵🏽‍♂️🌞🌊
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Ride on 2026-06-28**
+
+- Distance: 27.51 km
+- Time: 2.1 h
+- Elevation Gain: 686 m
+</td>
+<td>
+<a href="assets/19098381036-map-large.png?raw=true"><img src="assets/19098381036-map.png" alt="Map"></a><a href="assets/19098381036-photo.jpg?raw=true"><img src="assets/19098381036-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/19011715935">
 🚶🏽‍♂️ Tegernsee Marsch
 </a>
@@ -63,22 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/18915019157-map-large.png?raw=true"><img src="assets/18915019157-map.png" alt="Map"></a><a href="assets/18915019157-photo.jpg?raw=true"><img src="assets/18915019157-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/18439452684">
-🚶🏽‍♂️ Kurz an den See spazieren
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2026-05-09**
-
-- Distance: 33.86 km
-- Time: 7.7 h
-- Elevation Gain: 1860 m
-</td>
-<td>
-<a href="assets/18439452684-map-large.png?raw=true"><img src="assets/18439452684-map.png" alt="Map"></a><a href="assets/18439452684-photo.jpg?raw=true"><img src="assets/18439452684-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr></table><small>Last check for updates: Mon Jun 29 2026 00:03:48 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Mon Jul 06 2026 00:01:08 GMT+0000 (Coordinated Universal Time)</small>
