@@ -29,56 +29,56 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
-<a href="https://www.strava.com/activities/19098381036">
-🚲 Biken & Baden 🚵🏽‍♂️🌞🌊
+<a href="https://www.strava.com/activities/19570944699">
+🚶🏽‍♂️ Seekarspitze & Seebergspitze
 </a>
 </th>
 </tr><tr>
 <td>
 
-**Ride on 2026-06-28**
+**Hike on 2026-08-02**
 
-- Distance: 27.51 km
-- Time: 2.1 h
-- Elevation Gain: 686 m
+- Distance: 13.29 km
+- Time: 5.2 h
+- Elevation Gain: 1346 m
 </td>
 <td>
-<a href="assets/19098381036-map-large.png?raw=true"><img src="assets/19098381036-map.png" alt="Map"></a><a href="assets/19098381036-photo.jpg?raw=true"><img src="assets/19098381036-photo.jpg" alt="Activity Photo" height="180"></a>
+<a href="assets/19570944699-map-large.png?raw=true"><img src="assets/19570944699-map.png" alt="Map"></a><a href="assets/19570944699-photo.jpg?raw=true"><img src="assets/19570944699-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr><tr>
 <th colspan="2">
-<a href="https://www.strava.com/activities/19011715935">
-🚶🏽‍♂️ Tegernsee Marsch
+<a href="https://www.strava.com/activities/19516393345">
+🚲 Mini Räder auf Maxi Tour
 </a>
 </th>
 </tr><tr>
 <td>
 
-**Hike on 2026-06-21**
+**Ride on 2026-07-29**
 
-- Distance: 49.09 km
-- Time: 8.9 h
-- Elevation Gain: 1572 m
+- Distance: 54.25 km
+- Time: 3.1 h
+- Elevation Gain: 584 m
 </td>
 <td>
-<a href="assets/19011715935-map-large.png?raw=true"><img src="assets/19011715935-map.png" alt="Map"></a><a href="assets/19011715935-photo.jpg?raw=true"><img src="assets/19011715935-photo.jpg" alt="Activity Photo" height="180"></a>
+<a href="assets/19516393345-map-large.png?raw=true"><img src="assets/19516393345-map.png" alt="Map"></a><a href="assets/19516393345-photo.jpg?raw=true"><img src="assets/19516393345-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
 </tr><tr>
 <th colspan="2">
-<a href="https://www.strava.com/activities/18915019157">
-🚶🏽‍♂️ Morning Hike
+<a href="https://www.strava.com/activities/19502194615">
+🚲 Drei Platte auf zehn Kilometer
 </a>
 </th>
 </tr><tr>
 <td>
 
-**Hike on 2026-06-14**
+**Ride on 2026-07-28**
 
-- Distance: 20.88 km
-- Time: 4.1 h
-- Elevation Gain: 1037 m
+- Distance: 48.24 km
+- Time: 3.3 h
+- Elevation Gain: 636 m
 </td>
 <td>
-<a href="assets/18915019157-map-large.png?raw=true"><img src="assets/18915019157-map.png" alt="Map"></a><a href="assets/18915019157-photo.jpg?raw=true"><img src="assets/18915019157-photo.jpg" alt="Activity Photo" height="180"></a>
+<a href="assets/19502194615-map-large.png?raw=true"><img src="assets/19502194615-map.png" alt="Map"></a><a href="assets/19502194615-photo.jpg?raw=true"><img src="assets/19502194615-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr></table><small>Last check for updates: Sun Jul 26 2026 23:56:16 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Sun Aug 02 2026 23:53:52 GMT+0000 (Coordinated Universal Time)</small>
