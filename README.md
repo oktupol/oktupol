@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/19716014290">
+🚶🏽‍♂️ Bodenschneid zur Sonnenfinsternis
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2026-08-12**
+
+- Distance: 9.59 km
+- Time: 2.4 h
+- Elevation Gain: 584 m
+</td>
+<td>
+<a href="assets/19716014290-map-large.png?raw=true"><img src="assets/19716014290-map.png" alt="Map"></a><a href="assets/19716014290-photo.jpg?raw=true"><img src="assets/19716014290-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/19570944699">
 🚶🏽‍♂️ Seekarspitze & Seebergspitze
 </a>
@@ -63,22 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/19516393345-map-large.png?raw=true"><img src="assets/19516393345-map.png" alt="Map"></a><a href="assets/19516393345-photo.jpg?raw=true"><img src="assets/19516393345-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/19502194615">
-🚲 Drei Platte auf zehn Kilometer
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2026-07-28**
-
-- Distance: 48.24 km
-- Time: 3.3 h
-- Elevation Gain: 636 m
-</td>
-<td>
-<a href="assets/19502194615-map-large.png?raw=true"><img src="assets/19502194615-map.png" alt="Map"></a><a href="assets/19502194615-photo.jpg?raw=true"><img src="assets/19502194615-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr></table><small>Last check for updates: Sun Aug 09 2026 23:25:05 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Thu Aug 13 2026 05:47:37 GMT+0000 (Coordinated Universal Time)</small>
