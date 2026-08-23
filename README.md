@@ -81,4 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/19516393345-map-large.png?raw=true"><img src="assets/19516393345-map.png" alt="Map"></a><a href="assets/19516393345-photo.jpg?raw=true"><img src="assets/19516393345-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr></table><small>Last check for updates: Sun Aug 16 2026 23:14:22 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Sun Aug 23 2026 23:14:56 GMT+0000 (Coordinated Universal Time)</small>
