@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/19948594678">
+🚶🏽‍♂️ Schönjochl
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2026-08-29**
+
+- Distance: 8.12 km
+- Time: 3.2 h
+- Elevation Gain: 758 m
+</td>
+<td>
+<a href="assets/19948594678-map-large.png?raw=true"><img src="assets/19948594678-map.png" alt="Map"></a><a href="assets/19948594678-photo.jpg?raw=true"><img src="assets/19948594678-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/19716014290">
 🚶🏽‍♂️ Bodenschneid zur Sonnenfinsternis
 </a>
@@ -63,22 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/19570944699-map-large.png?raw=true"><img src="assets/19570944699-map.png" alt="Map"></a><a href="assets/19570944699-photo.jpg?raw=true"><img src="assets/19570944699-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/19516393345">
-🚲 Mini Räder auf Maxi Tour
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Ride on 2026-07-29**
-
-- Distance: 54.25 km
-- Time: 3.1 h
-- Elevation Gain: 584 m
-</td>
-<td>
-<a href="assets/19516393345-map-large.png?raw=true"><img src="assets/19516393345-map.png" alt="Map"></a><a href="assets/19516393345-photo.jpg?raw=true"><img src="assets/19516393345-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr></table><small>Last check for updates: Sun Aug 23 2026 23:14:56 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Mon Aug 31 2026 01:02:43 GMT+0000 (Coordinated Universal Time)</small>
