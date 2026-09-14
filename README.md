@@ -29,6 +29,24 @@ email using the address in my profile.
 
 <table><tr>
 <th colspan="2">
+<a href="https://www.strava.com/activities/20158717924">
+🚶🏽‍♂️ Gindelalm
+</a>
+</th>
+</tr><tr>
+<td>
+
+**Hike on 2026-09-13**
+
+- Distance: 14.85 km
+- Time: 3.6 h
+- Elevation Gain: 653 m
+</td>
+<td>
+<a href="assets/20158717924-map-large.png?raw=true"><img src="assets/20158717924-map.png" alt="Map"></a><a href="assets/20158717924-photo.jpg?raw=true"><img src="assets/20158717924-photo.jpg" alt="Activity Photo" height="180"></a>
+</td>
+</tr><tr>
+<th colspan="2">
 <a href="https://www.strava.com/activities/19948594678">
 🚶🏽‍♂️ Schönjochl
 </a>
@@ -63,22 +81,4 @@ email using the address in my profile.
 <td>
 <a href="assets/19716014290-map-large.png?raw=true"><img src="assets/19716014290-map.png" alt="Map"></a><a href="assets/19716014290-photo.jpg?raw=true"><img src="assets/19716014290-photo.jpg" alt="Activity Photo" height="180"></a>
 </td>
-</tr><tr>
-<th colspan="2">
-<a href="https://www.strava.com/activities/19570944699">
-🚶🏽‍♂️ Seekarspitze & Seebergspitze
-</a>
-</th>
-</tr><tr>
-<td>
-
-**Hike on 2026-08-02**
-
-- Distance: 13.29 km
-- Time: 5.2 h
-- Elevation Gain: 1346 m
-</td>
-<td>
-<a href="assets/19570944699-map-large.png?raw=true"><img src="assets/19570944699-map.png" alt="Map"></a><a href="assets/19570944699-photo.jpg?raw=true"><img src="assets/19570944699-photo.jpg" alt="Activity Photo" height="180"></a>
-</td>
-</tr></table><small>Last check for updates: Mon Sep 14 2026 00:36:52 GMT+0000 (Coordinated Universal Time)</small>
+</tr></table><small>Last check for updates: Mon Sep 14 2026 07:32:24 GMT+0000 (Coordinated Universal Time)</small>
